@@ -20,13 +20,13 @@ Le but de ce projet est de réaliser en THREE.js une modélisation de partie de 
 
 
 Parametrer la position idéale de la caméra (dans le menu en haut à droite dans l'onglet Camera):
-CameraxPos : 12
-CamerayPos : 2.4
-CamerazPos : 2.5
-CameraZoom : 5.6
-CameraxDir : 2
-CamerayDir : -2
-CamerazDir : 0
+- CameraxPos : 12
+- CamerayPos : 2.4
+- CamerazPos : 2.5
+- CameraZoom : 5.6
+- CameraxDir : 2
+- CamerayDir : -2
+- CamerazDir : 0
 
 REMARQUE : les courbes de trajectoire orange (déplacement rectiligne) et bleue (courbe Bézier) peuvent être changées en temps réel par une modification de leur point de contrôle, disponible dans le menu en haut à droite dans l'onglet Trajectoire:
 
