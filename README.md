@@ -17,10 +17,8 @@ Le but de ce projet est de réaliser en THREE.js une modélisation de partie de 
 
 - Télécharger ou cloner ce répertoire.
 - Exécuter dans un navigateur le fichier index.html (dans le fichier html)
-
-
-Parametrer la position idéale de la caméra (dans le menu en haut à droite dans l'onglet Camera):
-- CameraxPos : 12
+- Parametrer la position idéale de la caméra (dans le menu en haut à droite dans l'onglet Camera):
+  - CameraxPos : 12
 - CamerayPos : 2.4
 - CamerazPos : 2.5
 - CameraZoom : 5.6
